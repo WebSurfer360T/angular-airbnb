@@ -1,5 +1,4 @@
-# Airbnb Clone
+# angular-airbnb
 
 - `npm install`
 - `ng serve`
-# angular-airbnb
